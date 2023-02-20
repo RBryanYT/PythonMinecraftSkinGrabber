@@ -20,4 +20,4 @@ Press Enter and look for a folder called `GrabbedSkins` in the folder where
 the script is. A `.png` file will show up in the `GrabbedSkins` folder.
 That is the grabbed skin.
 
-Made by RBryanYT
+## Made by RBryanYT
